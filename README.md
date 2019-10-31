@@ -1,2 +1,2 @@
 # FileHunt
-Command Prompt based File Explorer for Linux
+Command Prompt based File Explorer for Linux.
